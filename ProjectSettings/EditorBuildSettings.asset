@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/RollABall.unity
+    guid: fbd034eeeb411154d8b1c3f5fe37f2a5
   m_configObjects: {}
